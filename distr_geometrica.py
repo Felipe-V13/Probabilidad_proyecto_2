@@ -75,3 +75,5 @@ host.locator_params(axis="x", nbins=lanzamientos)
 host.set_title("fmp distribución geométrica para moneda truco")
 host.set_xlabel("x (lanzamiento)")
 host.set_ylabel("f(x)")
+
+plt.show()
